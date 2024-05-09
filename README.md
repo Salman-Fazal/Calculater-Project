@@ -198,7 +198,7 @@ body{
 }
 
 
-// JS of.... 
+     ///// JS of.... 
 
 let appendToDisplay = (value) => {
     let valueInput = document.getElementById('display');
